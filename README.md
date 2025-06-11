@@ -1,4 +1,4 @@
-# 清华实习项目仓库 (QingHua_IntershipRepository)
+# 实习项目仓库 (QingHua_IntershipRepository)
 
 一个用于记录和提交实习期间工作内容的仓库，以及相关学习笔记。
 
