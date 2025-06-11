@@ -9,12 +9,12 @@
 #### 📅 `Intership_250609_Work/`
 **日期：2024年6月9日工作内容**
 - `multispectral_to_rgb.py` - 多光谱图像转RGB图像的处理脚本
-- `DayNote.md` - 当日详细的工作笔记和学习记录
+- `README.md` - 当日详细的工作笔记和学习记录
 - `test1.py` ~ `test9.py` - 各种实验和测试脚本，用于验证不同的算法和功能
 
 #### 📅 `Intership_250610_Work/`
 **日期：2024年6月10日工作内容**
-- `DeepLearningNote.md` - 深度学习相关的学习笔记
+- `README.md` - 深度学习相关的学习笔记
 - `FundamentalsOfDeepLearning/` - 深度学习基础实践代码
   - `alexnet.py` - AlexNet网络架构实现
   - `conv2d.py` / `conv2d_2.py` - 卷积层实现和测试
@@ -27,7 +27,7 @@
 #### 📊 `result/`
 **输出结果存储目录**
 - `ResultOf6_10/` - 6月10日的实验结果
-  - `ResultOfTrain.png` - 训练过程可视化结果图表
+  - `ResultOfTrain.png` - 训练过结果
 
 ## 🔧 技术栈
 
