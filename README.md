@@ -34,6 +34,12 @@
   - `train_test_spilt.py` - 训练测试集分割脚本
   - `train_output/` - 按类别组织的图像数据集目录
 
+#### 📅 `Intership_250612_Work/`
+**日期：2024年6月12日工作内容**
+- `vit_1d.py` - Vision Transformer (ViT) 模型实现，包含注意力机制和Transformer架构
+- `Mytrain_vit.py` - ViT模型训练脚本
+- `dataset.py` - 改进的数据集类，增加了错误处理和异常情况处理
+
 #### 📊 `result/`
 **输出结果存储目录**
 - `ResultOf6_10/` - 6月10日的实验结果
@@ -46,6 +52,7 @@
 - **图像处理** - 多光谱图像处理和转换
 - **数据可视化** - TensorBoard可视化，训练结果和数据分析
 - **数据集处理** - 图像分类数据集的组织和预处理
+- **Transformer架构** - Vision Transformer (ViT) 模型实现
 
 ## 📝 工作内容概述
 
@@ -66,6 +73,10 @@
 - 激活函数（ReLU、Sigmoid）的实验
 - 数据集训练测试分割实现
 
-
+### 第四天 (6/12)
+- Vision Transformer (ViT) 模型架构实现
+- 自注意力机制和Transformer模块开发
+- 改进的数据集类
+- ViT模型训练和评估流程实现
 
 **备注**：本仓库持续更新中，记录实习期间的学习成果和技术探索。
